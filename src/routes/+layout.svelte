@@ -14,7 +14,7 @@
 <Header/>
 <div class="drawer drawer-mobile">
 	<input id="my-drawer-2" type="checkbox" class="drawer-toggle" />
-	<div class="drawer-content flex flex-col lg:p-5">
+	<div class="drawer-content flex flex-col lg:p-2">
 	  <!-- Page content here -->
 	  <slot />
 	  <label for="my-drawer-2" class="btn btn-primary drawer-button lg:hidden">Open</label>

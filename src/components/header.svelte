@@ -1,3 +1,4 @@
-<div class="navbar bg-primary text-neutral-content">
-	<a href="/" class="btn btn-ghost normal-case text-xl">Demo Svelte Application</a>
-</div>
+<div class="navbar bg-base-100">
+    <a href = "/" class="btn btn-ghost normal-case text-xl">Svelte Demo App</a>
+  </div>
+  <hr/>
