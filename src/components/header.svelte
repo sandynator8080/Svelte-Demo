@@ -1,3 +1,3 @@
-<div class="navbar bg-neutral text-neutral-content">
-	<a href="/" class="btn btn-ghost normal-case text-xl">daisyUI</a>
+<div class="navbar bg-primary text-neutral-content">
+	<a href="/" class="btn btn-ghost normal-case text-xl">Demo Svelte Application</a>
 </div>
